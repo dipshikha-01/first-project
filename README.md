@@ -1,4 +1,7 @@
-# first-project
-this is my first git repository.
+# mini basic calculator
 <br>
-author : Dipshikha Jana
+It can do simple cxalculations like additon , subtraction , multiplication , division
+<br>
+To compile : gcc mini_calculator_1.c
+<br>
+This is my first project in git hub.
