@@ -1,6 +1,6 @@
 # mini basic calculator
 <br>
-It can do simple cxalculations like additon , subtraction , multiplication , division
+It can do simple cxalculations like additon , subtraction , multiplication 
 <br>
 To compile : gcc mini_calculator_1.c
 <br>
